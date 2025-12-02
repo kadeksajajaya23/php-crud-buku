@@ -45,10 +45,9 @@ Sistem menggunakan logika kondisional untuk penggantian file:
 
 ## 4. Struktur Folder
 
-Berikut adalah organisasi file dalam proyek ini:
 
 ```text
-tugas_buku/
+Project_1/
 ├── config/
 │   └── Database.php      # Class khusus untuk koneksi PDO ke DB
 ├── src/
